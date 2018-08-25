@@ -3,5 +3,5 @@
 ### Technologies:
 * Python 3.7.0
 #### To-do:
-* extension the list of cities
-* providing more informations about weather
+* extension the list of cities 
+* providing more details about weather
